@@ -1,4 +1,7 @@
-report/*.html linguist-generated=true
-report/*.htm linguist-generated=true
+*.html linguist-generated=true
+*.htm linguist-generated=true
 *.csv linguist-vendored=true
 *.pdf linguist-documentation=true
+report/* linguist-documentation=true
+Code/* linguist-language=R
+*.R linguist-language=R
